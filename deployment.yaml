@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: DOCKER_USERNAME/hello-world:latest
+          image: gokul4106/hello-world:2026-10-27-172139
           ports:
             - containerPort: 5000
